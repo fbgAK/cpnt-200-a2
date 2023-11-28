@@ -28,7 +28,7 @@ Akash Samra
 5.
    ![RLS Step 5](https://github.com/fbgAK/cpnt-200-a2/assets/147472633/ace13c3c-8470-4ffd-b824-c1b4a19d72c4)
 
-## Postman Queries
+## 4 Postman Queries
 
 1. **Level**
    - Key: `select`
