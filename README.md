@@ -23,7 +23,10 @@ Akash Samra
    ![RLS Step 3](https://github.com/fbgAK/cpnt-200-a2/assets/147472633/4c472749-7b73-488a-a685-5b91d3c1f77c)
 
 4.
-   ![RLS Step 4](https://github.com/fbgAK/cpnt-200-a2/assets/147472633/ace13c3c-8470-4ffd-b824-c1b4a19d72c4)
+    ![RLS Step 4]<img width="1440" alt="Screenshot 2023-11-27 at 5 43 27 PM" src="https://github.com/fbgAK/cpnt-200-a2/assets/147472633/e0d9b524-a530-4991-b060-e77a7771abe7">
+
+5.
+   ![RLS Step 5](https://github.com/fbgAK/cpnt-200-a2/assets/147472633/ace13c3c-8470-4ffd-b824-c1b4a19d72c4)
 
 # Postman Queries
 
