@@ -1,9 +1,9 @@
-# CPNT-200-A2
+# CPNT-200-A2 Import Data into Supabase
 
 ## Author
 Akash Samra
 
-## Import CSV Files into Supabase
+## Import CSV File into Supabase
 
 1. Add the CSV file into Supabase
    ![CSV Upload](https://github.com/fbgAK/cpnt-200-a2/assets/147472633/a0d04448-c500-4ff7-8ad9-d465a1a39e1b)
